@@ -22,14 +22,29 @@ I'm a passionate developer with a growing expertise in enterprise automation dev
 ---
 
 ### 🚀 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Odoo](https://img.shields.io/badge/-Odoo-81469C?style=flat-square&logo=odoo&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-4EA94B?style=flat-square&logo=postgres)
-![Python](https://img.shields.io/badge/-Python-777BB4?style=flat-square&logo=python)
+<p align="left">
+  <!-- Web & Programming Languages -->
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="30"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" height="30"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="30"/>
+  
+  <!-- Frameworks & Platforms -->
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" height="30"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Odoo-81469C?style=flat-square&logo=odoo&logoColor=white" height="30"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="30"/>
+
+  <!-- Machine Learning & Data Science -->
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30"/>
+</p>
 
 ---
 
