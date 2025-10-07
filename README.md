@@ -4,11 +4,11 @@
 
 I'm a passionate developer with a growing expertise in enterprise automation development. I love writing clean, efficient, and scalable code.
 
-🌍 I'm based in Uganda
-💼 Currently available for remote, hybrid jobs and startup collaborations
-📚 Learning and growing in Web3 development
-🤝 Open to collaboration on interesting projects
-📫 Reach me at: nayigaimmaculate098@gmail.com
+- 🌍 I'm based in Uganda
+- 💼 Currently available for remote, hybrid jobs and startup collaborations
+- 📚 Learning and growing in Web3 development
+- 🤝 Open to collaboration on interesting projects
+- 📫 Reach me at: nayigaimmaculate098@gmail.com
 
 ---
 
