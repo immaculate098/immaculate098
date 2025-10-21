@@ -6,7 +6,7 @@ I'm a passionate developer with a growing expertise in enterprise automation dev
 
 - 🌍 I'm based in Uganda
 - 💼 Currently available for remote, hybrid jobs and startup collaborations
-- 📚 Learning and growing in Web3 development
+- 📚 Learning and growing in Data science & Machine learning
 - 🤝 Open to collaboration on interesting projects
 - 📫 Reach me at: nayigaimmaculate098@gmail.com
 
